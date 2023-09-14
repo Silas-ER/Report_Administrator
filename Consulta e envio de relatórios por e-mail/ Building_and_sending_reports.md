@@ -35,13 +35,13 @@ Por padrão com os outros scripts já gerados na empresa e pela familiaridade co
 </ul>
 
 <p>
-  Para criação do executavél utilizei a lib Cx_freeze que está configurada através do setup.py e programei a execução com o agendador de tarefas do windows.
+  Para criação do executavél utilizei a lib Cx_freeze que está configurada através do <a href="https://github.com/Silas-ER/Report_Administrator/blob/main/Consulta%20e%20envio%20de%20relat%C3%B3rios%20por%20e-mail/src/setup.py">setup.py</a> e programei a execução com o agendador de tarefas do windows.
   <br>
   Por fim tentei ao máximo modularizar o código para facilitar a manutenção. 
 </p>
 
 <p>
-  To create the executable I used the Cx_freeze lib that is configured through setup.py and programmed the execution with the Windows task scheduler.
+  To create the executable I used the Cx_freeze lib that is configured through <a href="https://github.com/Silas-ER/Report_Administrator/blob/main/Consulta%20e%20envio%20de%20relat%C3%B3rios%20por%20e-mail/src/setup.py">setup.py</a> and programmed the execution with the Windows task scheduler.
   <br>
   Finally, I tried my best to modularize the code to facilitate maintenance.
 </p>
